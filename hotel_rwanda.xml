@@ -1,0 +1,286 @@
+<hotels>
+
+    <hotel category="Five Stars">
+        <name>Four Points by Sheraton Kigali</name>
+        <room type="Double room">
+            <price>200</price>
+            <description>
+               Spacious luxury for two guests.
+            </description>
+        </room>
+        <room type="Single room">
+            <price>250</price>
+            <description>
+                Elegant comfort with premium amenities.
+            </description>
+        </room>
+        <room type="Twin room">
+            <price>500</price>
+             <description>
+                <description>
+                Stylish twin beds with high-end features.
+            </description>
+            </description>
+        </room>
+
+
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/four-points-by-sheraton-kigali.en-gb.html?label
+            </url>
+        </website>
+    </hotel>
+
+    <hotel category="Five Stars">
+        <name>Radisson Blu Hotel</name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/radisson-blu-conference-centre-kigali.en-gb.html?label
+            </url>
+        </website>
+        <room type="Double room">
+         <description>
+               Spacious luxury for two guests.
+            </description>
+            <price>250</price>
+        </room>
+        <room type="Single room">
+            <description>
+                Elegant comfort with premium amenities.
+            </description>
+            <price>200</price>
+        </room>
+        <room type="Twin room">
+            <description>
+                Stylish twin beds with high-end features.
+            </description>
+            <price>500</price>
+        </room>
+    </hotel>
+
+    <hotel category="Five Stars">
+        <name>
+            Kigali Serina Hotel
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/kigali-serena.en-gb.html?label
+            </url>
+        </website>
+        <room type="Double room">
+<description>
+               Spacious luxury for two guests.
+            </description>
+            <price>250</price>
+        </room>
+        <room type="Single room">
+            <description>
+                Elegant comfort with premium amenities.
+            </description>
+            <price>200</price>
+        </room>
+        <room type="Twin room">
+            <description>
+                Stylish twin beds with high-end features.
+            </description>
+            <price>500</price>
+        </room>
+    </hotel>
+
+    <hotel category="Four Stars">
+        <name>
+            Zara Court Hotel
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/zaria-court-kigali.en-gb.html?label </url>
+        </website>
+        <room type="Double room">
+            <Description>
+            Comfortable stay with quality facilities.
+            </Description>
+            <price>150</price>
+        </room>
+        <room type="Single room">
+            <Description>
+            Modern, cozy, and well-equipped.
+            </Description>
+            <price>100</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Contemporary design with two single beds.
+            </Description>
+            <price>300</price>
+        </room>
+    </hotel>
+
+    <hotel category="Four Stars">
+        <name>
+            2000 Hotel Downtown
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/2000.en-gb.html?label </url>
+        </website>
+       <room type="Double room">
+         <Description>
+            Comfortable stay with quality facilities.
+            </Description>
+            <price>150</price>
+        </room>
+        <room type="Single room">
+            <Description>
+            Modern, cozy, and well-equipped.
+            </Description>
+            <price>100</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Contemporary design with two single beds.
+            </Description>
+            <price>300</price>
+        </room>
+    </hotel>
+
+    <hotel category="Four Stars">
+        <name>
+            M Hotel Kigali
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/m.en-gb.html?label </url>
+        </website>
+       <room type="Double room">
+         <Description>
+            Comfortable stay with quality facilities.
+            </Description>
+            <price>150</price>
+        </room>
+        <room type="Single room">
+            <Description>
+            Modern, cozy, and well-equipped.
+            </Description>
+            <price>100</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Contemporary design with two single beds.
+            </Description>
+            <price>300</price>
+        </room>
+    </hotel>
+
+    <hotel category="Three Stars">
+        <name>
+            Hotel Chez Lando
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/chez-lando.en-gb.html?label </url>
+        </website>
+        <room type="Double room">
+            <Description>
+                Simple comfort with essential amenities.
+            </Description>
+            <price>150</price>
+        </room>
+        <room type="Single room">
+             <Description>
+                Practical and pleasant for solo travelers.
+            </Description>
+            <price>100</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Clean and convenient twin-bed setup.
+            </Description>
+            <price>200</price>
+        </room>
+    </hotel>
+
+    <hotel category="Three Stars">
+        <name>
+            Velvet Suites
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/it/velvet-suite.en-gb.html?label</url>
+        </website>
+        <room type="Double room">
+            <Description>
+                Simple comfort with essential amenities.
+            </Description>
+            <price>150</price>
+        </room>
+        <room type="Single room">
+            <Description>
+                Practical and pleasant for solo travelers.
+            </Description>
+            <price>100</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Clean and convenient twin-bed setup.
+            </Description>
+            <price>200</price>
+        </room>
+    </hotel>
+
+    <hotel category="Two Stars">
+        <name>
+            Hotel Greenwich
+        </name>
+        <website>
+            <url>
+                https://www.booking.com/hotel/rw/greenwich-kigali.en-gb.html?label
+            </url>
+        </website>
+        <room type="Double room">
+            <Description>
+                Affordable comfort for two guests.
+            </Description>
+            <price>75</price>
+        </room>
+        <room type="Single room">
+             <Description>
+               Basic and budget-friendly accommodation.
+            </Description>
+            <price>50</price>
+        </room>
+        <room type="Twin room">
+            Modest twin room with essential facilities.
+            <price>100</price>
+        </room>
+    </hotel>
+
+    <hotel category="Two Stars">
+        <name>
+            Villa Bella Vue
+        </name>
+        <website>
+            <url>
+                https://www.tripadvisor.com/Hotel_Review-g293829-d4327323-Reviews-Villa_Belle_Vue-Kigali_Kigali_Province.html
+            </url>
+        </website>
+        <room type="Double room">
+            <Description>
+                Affordable comfort for two guests.
+            </Description>
+            <price>75</price>
+        </room>
+        <room type="Single room">
+            <Description>
+               Basic and budget-friendly accommodation.
+            </Description>
+            <price>50</price>
+        </room>
+        <room type="Twin room">
+            <Description>
+                Modest twin room with essential facilities.
+            </Description>
+            <price>100</price>
+        </room>
+    </hotel>
+
+</hotels>
